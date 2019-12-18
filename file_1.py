@@ -1,1 +1,2 @@
-import numpy as np
+import numpy as
+https://github.com/ihorkosenko/treasure.git
